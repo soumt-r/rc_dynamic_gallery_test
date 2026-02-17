@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-02-13 12:09:24",
+  "last_updated": "2026-02-18 02:06:10",
   "images": [
+    {
+      "file_hash": "3b708c7c",
+      "date": "2026-02-18",
+      "title": "",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [],
+      "photographer": ""
+    },
     {
       "file_hash": "583cb837",
       "date": "2026-02-11",
@@ -216,5 +225,5 @@
   ],
   "gallery_title": "Rera Chan Photo Gallery",
   "gallery_description": "A collection of memories.",
-  "base_url": "https://soumt-r.github.io/rc_dynamic_gallery_test"
+  "base_url": "https://rc-dgs.pages.dev"
 }
